@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(31, 94, 209);
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.outer{
+    background-color: lightskyblue;
+    margin-top: 5%;
+    display: flex;
+    padding: 5%;
+    margin-bottom: 10%;
+    margin-left: 100px;
+    margin-right: 100px;
+    position: absolute;
+}
+.sign-up{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border-radius: 3px;
+    outline: none;
+    background-color: white;
+    margin-right: 100px;
+    margin-top: 1%;
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+    padding-top: 15;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    /* display: flex; */
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    margin-top: 2px;
+     width: 100%;
+    padding: 7px; 
+    color:none;
+    border: none;
+    outline: none;
+     border-bottom: 1px solid black;
+     background-color: white;
+     margin-right: 20%;
+}
+input[type="button"]{
+    width: 200px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(108, 162, 243);
+    border: 3px solid;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+    font-style: italic;
+}
+h4{
+    margin-left: 0%;
+    font-size: small;
+}
+.sign-up form label{
+    outline: none;
+}
+.pic{
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-right: 10px;
+    
+}
+.both{
+    background-color: white;
+    display: flex;
+    margin-left: 18px;
+   height: 150%; 
+   margin-right: none;
+}
+span{
+    margin-left: 30%;
+    /* color: blue; */
+}
+.font{
+    text-align: center;
+    margin-top: 2px;
+}
+.i{
+    padding: 10px 10px;
+}
+.icons i,label{
+    margin-top: 10px;
+
+}
+.icon1{
+    margin-top: 50px;
+    margin-right: 2px;
+}
+.wow{
+    color: red;
+}
