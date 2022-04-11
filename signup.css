@@ -2,9 +2,9 @@ body{
     background-color: rgb(229, 194, 243);
     margin: 0%;
     padding: 0%;
-    font-family: 'Courier New', Courier, monospace;
+   
 }
-.outer{
+/* .outer{
     background-color: lightskyblue;
     margin-top: 5%;
     display: flex;
@@ -13,7 +13,7 @@ body{
     margin-left: 100px;
     margin-right: 100px;
     position: absolute;
-}
+} */
 .sign-up{
     width: 400px;
     height: 400px;
@@ -52,7 +52,7 @@ form input{
 }
 input[type="button"]{
     width: 200px;
-    height: 35px;
+    height: 55px;
     margin-bottom: 20px;
     border: none;
     background-color: rgb(104, 133, 228);
@@ -60,7 +60,8 @@ input[type="button"]{
     border-radius: 20px;
     color: white;
     font-size: 20px;
-    margin-left: 30px;
+    margin-left: 40px;
+    margin-right: 3px;
 }
 p{
     text-align: center;
@@ -85,8 +86,13 @@ h4{
     background-color: white;
     display: flex;
     margin-left: 18px;
-   height: 150%; 
+   height: 250%; 
    margin-right: none;
+   margin-bottom: 10%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10%;
+
 }
 span{
     margin-left: 30%;

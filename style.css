@@ -4,7 +4,7 @@ body{
     padding: 0%;
     font-family: 'Courier New', Courier, monospace;
 }
-.outer{
+/* .outer{
     background-color: lightskyblue;
     margin-top: 5%;
     display: flex;
@@ -13,7 +13,7 @@ body{
     margin-left: 100px;
     margin-right: 100px;
     position: absolute;
-}
+} */
 .sign-up{
     width: 400px;
     height: 400px;
@@ -52,7 +52,7 @@ form input{
 }
 input[type="button"]{
     width: 200px;
-    height: 35px;
+    height: 55px;
     margin-top: 20px;
     border: none;
     background-color: rgb(108, 162, 243);
@@ -87,6 +87,11 @@ h4{
     margin-left: 18px;
    height: 150%; 
    margin-right: none;
+   margin-bottom: 10%;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-top: 10%;
+
 }
 span{
     margin-left: 30%;
